@@ -1,0 +1,6 @@
+I am learning git
+ after git log, i am 
+editing my file. then run git status.
+
+it is going perfect it show modification in first txt file
+changed
